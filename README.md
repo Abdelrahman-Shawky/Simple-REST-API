@@ -18,5 +18,5 @@ Here's an example:
 | /api/subscribers             | GET    | Get all items                                       |
 | /api/subscribers/:id         | GET    | Get a single item by id                             |
 | /api/subscribers             | POST   | Create a new item                                   |
-| /api/subscribers/:id         | PUT    | Update an item by id                                |
+| /api/subscribers/:id         | PATCH    | Update an item by id                                |
 | /api/subscribers/:id         | DELETE | Delete an item by id     
